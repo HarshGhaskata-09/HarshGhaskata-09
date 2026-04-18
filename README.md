@@ -17,14 +17,19 @@
 
 ##  Tech Stack
 
- **Languages**
+ **Hard Skills**
 
 * Java
+* Python
+* C Language 
 * HTML, CSS
+* PHP
+* SQLite, SQL
 
  **Mobile Development**
 
 * Android Studio
+* Java, Kotlin 
 * XML UI Design
 
  **Backend & Database**
@@ -37,7 +42,8 @@
 
 * Git & GitHub
 * VS Code
-* Postman (Basic)
+* Anti-gravity
+* Kiro.dev
 
 ---
 

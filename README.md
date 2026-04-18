@@ -75,9 +75,8 @@
 ---
 ## Connect With Me
 
-*  Email: [your-email@gmail.com](mailto:harshghaskata155@gmail.com)
-*  LinkedIn: ([Add your link here](https://www.linkedin.com/in/harsh-ghaskata-95435a341?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-*  Portfolio: (Add when ready)
+*  Email: [harshghaskata155@gmail.com](mailto:harshghaskata155@gmail.com)
+*  LinkedIn: ([Harsh Ghaskata](https://www.linkedin.com/in/harsh-ghaskata-95435a341?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 

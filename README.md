@@ -82,8 +82,10 @@
 ## Connect With Me
 
 *  Email: [harshghaskata155@gmail.com](mailto:harshghaskata155@gmail.com)
+  
 *  LinkedIn: ([Harsh Ghaskata](https://www.linkedin.com/in/harsh-ghaskata-95435a341?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-*  My Work: ([My Work]((https://drive.google.com/drive/folders/1aJiQoT8wqyBbJ-zi72TQkqa3dGzYO5t9)))
+  
+*  My Work: ( [My Work](https://drive.google.com/drive/folders/1aJiQoT8wqyBbJ-zi72TQkqa3dGzYO5t9))
 ---
 
 ## Fact

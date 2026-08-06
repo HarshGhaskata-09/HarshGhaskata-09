@@ -29,7 +29,7 @@
  **Mobile Development**
 
 * Android Studio
-* Java, Kotlin 
+* Java
 * XML UI Design
 
  **Backend & Database**
@@ -40,7 +40,7 @@
 
  **Tools & Technologies**
 
-* Git & GitHub
+* GitHub
 * VS Code
 * Anti-gravity
 * Kiro.dev
@@ -71,6 +71,20 @@
 *  Clean UI design
 
  Tech Used: HTML, CSS, Flask
+
+---
+###  Tour Booking System
+
+ A dynamic Android Application with Admin and User side
+
+ Features:
+
+*  User Can View Package 
+*  Manage Bookings 
+*  Admin can Modify and Update package data
+*  Payment system
+
+ Tech Used: AndroidStudio, Xml, Java, Firebase
 
 ---
 ##  What I'm Working On
